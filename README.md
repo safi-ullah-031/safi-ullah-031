@@ -29,5 +29,5 @@ Cybersecurity trends and OSINT techniques.
 DevSecOps and Software Project Management.
 
 📫 How to reach me:
-LinkedIn: [linkedin.com/in/safi-ullah)](https://www.linkedin.com/in/safi-ullah-54464525b)
+LinkedIn: [(linkedin.com/in/safi-ullah)](https://www.linkedin.com/in/safi-ullah-54464525b)
 Email: [safiullah445@outlook.com]
