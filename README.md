@@ -12,11 +12,12 @@ Welcome to my GitHub profile! I'm an undergraduate Software Engineering student 
 My academic journey has equipped me with a strong foundation in Python and C++, and I’m always excited to learn and apply new technologies.
 
 🔭 I’m currently working on:
-A Packet Sniffer using Python to enhance my skills in network security.
+GitHub-Integration-for-Agile-Team-Release-Management
 
 🎓 My projects include:
-File Sharing System (Python): A local file-sharing system developed as part of my semester project.
+A simple 2D game using Python and Tkinter.
 Scientific Calculator (C++): A comprehensive calculator designed and developed for a C++ programming project.
+Multiple Automation scripts using Python for routine tasks.
 
 🌱 I’m currently learning:
 Advanced concepts in cybersecurity and OSINT (Open Source Intelligence).
@@ -25,7 +26,8 @@ Exploring deeper into network security tools and techniques.
 💬 Ask me about:
 Python, C++, and network security.
 Cybersecurity trends and OSINT techniques.
+DevSecOps and Software Project Management.
 
 📫 How to reach me:
-LinkedIn: [(https://www.linkedin.com/in/safi-ullah)](https://www.linkedin.com/in/safi-ullah-54464525b)
+LinkedIn: [linkedin.com/in/safi-ullah)](https://www.linkedin.com/in/safi-ullah-54464525b)
 Email: [safiullah445@outlook.com]
