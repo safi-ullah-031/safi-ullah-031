@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a **Software Engineering** student at **Pak Austria Fachhochschule IAST**, passionate about **cybersecurity, OSINT engineering, and software development**. My expertise includes **Python, C++, Linux, and network security**, and I’m always eager to explore new technologies.  
 
 ## 🔭 Current Work  
-- **GitHub Integration for Agile Team Release Management**  
+- **AI Agents in Cybersecurity**  
 
 ## 🎓 Projects  
 - **Automation with Python** – Various scripts to simplify routine tasks.  
