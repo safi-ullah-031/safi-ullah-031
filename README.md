@@ -68,5 +68,20 @@ I'm passionate about building secure, intelligent, and efficient software. With 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
+---
 
+## GitHub Stats
 
+<div align="center">
+  <table>
+      <td align="center" style="padding:0;width:50%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safi-ullah-031&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=none" alt="Top Languages" />
+      </td>
+      <td align="center" style="padding:0;width:50%;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safi-ullah-031&theme=radical" alt="Profile Summary" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
